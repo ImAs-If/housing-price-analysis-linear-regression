@@ -73,6 +73,7 @@ The improvements increased the R² score compared to the baseline model.
 ---
 ## 📁 Repository Structure
 
+
 ├── Housing.csv
 ├── linear-regression-v3.ipynb
 └── README.md
@@ -97,4 +98,3 @@ This project is for **academic and educational purposes**.
 
 
 
-## 📁 Repository Structure
